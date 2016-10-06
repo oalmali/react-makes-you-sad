@@ -1,15 +1,15 @@
 # react-sizi-üzüyor
 Sizi mutlu edecek akış şeması geldi!
 
-## <a href='https://cdn.rawgit.com/gaearon/react-makes-you-sad/1377b6a6cdc644adfea6bf238f06c75d33ed6f1e/fatigue.svg' target='_blank'>Yeni sekmede açın</a>
+## <a href='https://cdn.rawgit.com/oalmali/react-makes-you-sad/master/fatigue.svg' target='_blank'>Yeni sekmede açın</a>
 
-<img src='https://cdn.rawgit.com/gaearon/react-makes-you-sad/1377b6a6cdc644adfea6bf238f06c75d33ed6f1e/fatigue.svg'>
+<img src='https://cdn.rawgit.com/oalmali/react-makes-you-sad/master/fatigue.svg'>
 
-## Credits
+## Referanslar
 
 Şuradan esinlenildi: https://github.com/petehunt/react-howto
 
-## Links
+## Linkler
 
 * React ekosistemi kafanızı karıştırıyorsa ve nereden başlayacağınızı bilmiyorsanız, şuraya göz atın <a href="https://github.com/petehunt/react-howto" target="_blank">Pete Hunt'ın react rehberi</a>.
 
@@ -32,7 +32,7 @@ Sizi mutlu edecek akış şeması geldi!
 3. `.svg` dosyasını üretmek için `dot -Tsvg fatigue.dot > fatigue.svg`
 4. PR gönderin!
 
-## Translation
+## Çeviri
 
 - [Français](https://github.com/matteodelabre/react-vous-rend-triste)
 - [Portuguese](https://github.com/brunogenaro/react-makes-you-sad)
@@ -44,6 +44,6 @@ Sizi mutlu edecek akış şeması geldi!
 - [Русский](https://github.com/Sacret/react-makes-you-sad)
 - [Türkçe](https://github.com/oalmali/react-makes-you-sad)
 
-## License
+## Lisans
 
 [CC0](https://wiki.creativecommons.org/wiki/CC0)
